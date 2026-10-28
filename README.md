@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# Hi there! I'm Tri
+# Hi there!
 
 ### 💻 IT Student | Aspiring Software Engineer & Full-Stack Developer
 
