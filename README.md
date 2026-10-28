@@ -21,7 +21,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,php,js,dart,html,css" />
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,php,js,dart,html,css,sql,mysql,adobe" />
 
 <img src="https://skillicons.dev/icons?i=laravel,dotnet,flutter,mysql,git,github,vscode,visualstudio" />
 
