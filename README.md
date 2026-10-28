@@ -20,7 +20,7 @@
 ## 🛠️ Languages and Tools
 
 <div align="center">
-  <img src="./tech-stack-rgb.svg" alt="My Tech Stack" width="100%">
+  <img src="./stack.svg" alt="" width="100%">
 </div>
 
 ## 🔥 GitHub Streak
