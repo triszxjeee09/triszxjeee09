@@ -13,7 +13,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 Studying Information Technology at HUIT
-- 🚀 Interested in Full-Stack Web Development and AI
+- 🚀 Interested in Full-Stack Development and AI
 - 💡 Passionate about building real-world applications
 - 📍 Based in Ho Chi Minh City, Vietnam
 
