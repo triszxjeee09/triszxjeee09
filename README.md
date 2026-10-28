@@ -4,8 +4,6 @@
 
 ### 💻 IT Student | Aspiring Software Engineer & Full-Stack Developer
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077ff,100:00c6ff&height=160&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=30&fontColor=ffffff" width="100%"/>
-
 </div>
 
 ## 👨‍💻 About Me
