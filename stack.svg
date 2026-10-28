@@ -6,6 +6,11 @@
 <path d="M80 75H920" stroke="#263043" stroke-width="1"/>
 <g transform="translate(79 105)">
 <rect x="0" y="0" width="47" height="47" rx="12" fill="#659AD2" fill-opacity=".12" stroke="#659AD2" stroke-opacity=".32"/>
+<text x="23.5" y="29" font-family="Arial,sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#659AD2">C</text>
+<text x="57" y="29" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="600" fill="#e9edf7">C</text>
+</g>
+<g transform="translate(79 105)">
+<rect x="0" y="0" width="47" height="47" rx="12" fill="#659AD2" fill-opacity=".12" stroke="#659AD2" stroke-opacity=".32"/>
 <text x="23.5" y="29" font-family="Arial,sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#659AD2">C++</text>
 <text x="57" y="29" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="600" fill="#e9edf7">C++</text>
 </g>
