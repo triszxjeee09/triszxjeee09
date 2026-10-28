@@ -1,6 +1,10 @@
 <div align="center">
+  <img src="./ocean-banner.svg" alt="GitHub Banner" width="100%">
+</div>
 
-# Hi there! 👋 I'm Tri
+<div align="center">
+
+# Hi there! I'm Tri
 
 ### 💻 IT Student | Aspiring Software Engineer & Full-Stack Developer
 
