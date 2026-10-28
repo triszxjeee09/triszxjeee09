@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./ocean-banner.svg" alt="GitHub Banner" width="100%">
+  <img src="./ductri.svg" alt="GitHub Banner" width="100%">
 </div>
 
 <div align="center">
