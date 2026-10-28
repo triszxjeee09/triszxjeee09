@@ -20,24 +20,7 @@
 ## 🛠️ Languages and Tools
 
 <div align="center">
-
-<img src="./assets/badges/cpp.svg" alt="C/C++" height="30" /> &nbsp;
-<img src="./assets/badges/csharp.svg" alt="C#" height="30" /> &nbsp;
-<img src="./assets/badges/java.svg" alt="Java" height="30" /> &nbsp;
-<img src="./assets/badges/python.svg" alt="Python" height="30" /> &nbsp;
-<img src="./assets/badges/php.svg" alt="PHP" height="30" /> &nbsp;
-<img src="./assets/badges/javascript.svg" alt="JavaScript" height="30" /> &nbsp;
-<img src="./assets/badges/html.svg" alt="HTML5" height="30" /> &nbsp;
-<img src="./assets/badges/css.svg" alt="CSS3" height="30" /> &nbsp;
-<img src="./assets/badges/laravel.svg" alt="Laravel" height="30" /> &nbsp;
-<img src="./assets/badges/flutter.svg" alt="Flutter" height="30" /> &nbsp;
-<img src="./assets/badges/mysql.svg" alt="MySQL" height="30" /> &nbsp;
-<img src="./assets/badges/git.svg" alt="Git" height="30" /> &nbsp;
-<img src="./assets/badges/github.svg" alt="GitHub" height="30" /> &nbsp;
-<img src="./assets/badges/dart.svg" alt="Dart" height="30" /> &nbsp;
-<img src="./assets/badges/dotnet.svg" alt=".NET" height="30" /> &nbsp;
-<img src="./assets/badges/bootstrap.svg" alt="Bootstrap" height="30" /> &nbsp;
-
+  <img src="./tech-stack-rgb.svg" alt="My Tech Stack" width="100%">
 </div>
 
 ## 🔥 GitHub Streak
