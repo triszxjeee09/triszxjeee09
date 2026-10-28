@@ -1,7 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="344" viewBox="0 0 1000 344" role="img" aria-label="Animated rainbow frame with colorful technology logos">
 <defs><linearGradient id="rainbow" x1="0" y1="0" x2="1" y2="0" gradientUnits="objectBoundingBox"><stop offset="0" stop-color="#ff4269"/><stop offset=".16" stop-color="#ffbf47"/><stop offset=".33" stop-color="#3fea89"/><stop offset=".5" stop-color="#42caff"/><stop offset=".67" stop-color="#9c69ff"/><stop offset=".84" stop-color="#ff54d9"/><stop offset="1" stop-color="#ff4269"/><animateTransform attributeName="gradientTransform" type="rotate" from="0 .5 .5" to="360 .5 .5" dur="5s" repeatCount="indefinite"/></linearGradient><filter id="glow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="6"/></filter></defs>
-<rect x="12" y="12" width="976" height="320" rx="30" fill="none" stroke="url(#rainbow)" stroke-width="9" opacity=".45" filter="url(#glow)"/>
-<rect x="12" y="12" width="976" height="320" rx="30" fill="#090d16" stroke="url(#rainbow)" stroke-width="5"/>
 <g transform="translate(79 105)">
 <rect x="0" y="0" width="47" height="47" rx="12" fill="#659AD2" fill-opacity=".12" stroke="#659AD2" stroke-opacity=".32"/>
 <text x="23.5" y="29" font-family="Arial,sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#659AD2">C++</text>
