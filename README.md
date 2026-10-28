@@ -6,15 +6,14 @@
 
 # Hi there!
 
-### 💻 IT Student | Aspiring Software Engineer & Full-Stack Developer
+### 💻 IT Student | Aspiring Full-Stack Developer
 
 </div>
 
 ## 👨‍💻 About Me
 
 - 🎓 Studying Information Technology at HUIT
-- 🌱 Learning Full-Stack Web Development
-- 🚀 Interested in Software Engineering and AI
+- 🚀 Interested in Full-Stack Web Development and AI
 - 💡 Passionate about building real-world applications
 - 📍 Based in Ho Chi Minh City, Vietnam
 
