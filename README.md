@@ -32,7 +32,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=triszxjeee09&theme=tokyonight" />
 
 </div>
 
